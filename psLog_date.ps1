@@ -1,0 +1,1 @@
+Start-Transcript -LiteralPath "$env:temp\psLog_$((Get-Date).ToString("yyyy.MM.dd.HH.mm.ss")).txt"
